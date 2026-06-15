@@ -46,4 +46,4 @@ Hardware integration (wearables, dedicated devices, etc.) might be something to 
 
 ## Note
 
-This is a learning/prototype project, not a production-ready safety tool — don't rely on it as your only safety measure.
+This is a learning/prototype project, not a production-ready safety tool yet.
